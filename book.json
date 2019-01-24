@@ -1,0 +1,7 @@
+    {
+        "title": "杨咚浩",
+        "theme-default": {
+            "showLevel": true
+        },
+        "plugins": ["summary", "toggle-chapters", "theme-comscore"]
+    }

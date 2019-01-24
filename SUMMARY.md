@@ -1,8 +1,24 @@
-# Summary
 
-## 简介
+## 2-代码
 
-* [简介](README.md)
 
-## 文档
-* [GitBook](document/gitbook/SUMMARY.md)
+- [代码](2-代码/1-代码.md)
+- [1-嵌入式]()
+
+    - [代码](2-代码/1-嵌入式/1-嵌入式.md)
+    - [1-调试]()
+
+        - [1-segger]()
+
+            - [RTT](2-代码/1-嵌入式/1-调试/1-segger/1-RTT.md)
+            - [RTT](2-代码/1-嵌入式/1-调试/1-segger/2-RTT.md)
+
+## 3-文档
+
+
+## 5-经济
+
+
+- [1-income]()
+
+    - [收入](5-经济/1-income/1-income.md)
