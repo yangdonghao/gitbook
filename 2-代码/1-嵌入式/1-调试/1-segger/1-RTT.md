@@ -16,6 +16,8 @@ SEGGER_RTT_SetTerminal(0); // Reset to standard terminal
 
 ### 颜色
 
+![颜色](./pic/颜色.jpg)
+
 RTT_CTRL_RESET
 > Reset the text color and background color.
 
